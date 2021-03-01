@@ -1,6 +1,6 @@
-#Youtube playlist title scraper + deleted/prviate video finder.
+# Youtube playlist title scraper + deleted/prviate video finder.
 
-##Intro
+## Intro
 
 Do you have a youtube playlist that looks like this? 
 
