@@ -1,4 +1,4 @@
-# Youtube playlist title scraper + deleted/prviate video finder.
+# Youtube playlist title scraper + deleted/private video finder.
 
 ## Intro
 
