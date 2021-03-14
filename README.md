@@ -32,7 +32,7 @@ You will need a valid api key for the [Youtube Data API](https://developers.goog
 
 You will also need to set up a [CSE (Custom Search Engine)](https://programmablesearchengine.google.com/about/) which allows you to search google up to 100 times per day for free.
 
-A youtube playlist ID can be found by naviagting to the playlist and selecting this part of the URL:
+A youtube playlist ID can be found by navigating to the playlist and selecting this part of the URL:
 
 ![yturl](./images/ytplaylist.png)
 
